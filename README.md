@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1HxGHwJFVaYM1iugCVmasmijd2FMZhblm/view?usp=sharing)](https://aryaddinata-site-v1.vercel.app/)
+[![MasterHead](https://imgur.com/hoM3ZU8)](https://aryaddinata-site-v1.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Agil Aryaddinata Abbas</h1>
 
