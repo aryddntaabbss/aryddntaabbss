@@ -24,7 +24,7 @@ I'm a passionate web developer with a keen eye for detail and a love for craftin
 Feel free to reach out to me!
 
 <a href="https://instagram.com/aryddntaabbss17.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aryaddinata" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aryaddinata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaddinata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryaddinata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Aryaddinata" height="30" width="40" /></a>
 
 ## 🎯 Currently Working On
 
