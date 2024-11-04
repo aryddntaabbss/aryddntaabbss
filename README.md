@@ -22,9 +22,11 @@ I'm a passionate web developer with a keen eye for detail and a love for craftin
 
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">Feel free to reach out to me!</p>
+<p align="center">I'm always open to collaborating on exciting projects or discussing web development trends. If you have an idea or want to chat, don't hesitate to get in touch!</p>
 
-<a href="https://instagram.com/aryddntaabbss17.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aryaddinata" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aryaddinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaddinata" height="30" width="40" /></a>
+<p align="center"><a href="https://instagram.com/aryddntaabbss17.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aryaddinata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryaddinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaddinata" height="30" width="40" /></a></p>
+
 
 <h2 align="center">🎯 Currently Working On</h2>
 
@@ -33,12 +35,6 @@ I'm currently exploring the latest trends in web development, including:
 - Progressive Web Apps (PWAs)
 - Web Accessibility (a11y)
 - Performance Optimization Techniques
-
-<h2 align="center">🤝 Get Involved</h2>
-
-I'm always open to collaborating on exciting projects or discussing web development trends. If you have an idea or want to chat, don't hesitate to get in touch!
-
----
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryddntaabbss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryddntaabbss" />
