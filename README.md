@@ -41,11 +41,11 @@ I'm always open to collaborating on exciting projects or discussing web developm
 
 ---
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryddntaabbss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryddntaabbss" />
 </p>
 
-<p align="center">
+<p align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=aryddntaabbss&show_icons=true&locale=en&theme=tokyonight" alt="aryddntaabbss" />
 </p>
 
