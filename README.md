@@ -21,7 +21,6 @@ I'm a passionate web developer with a keen eye for detail and a love for craftin
 - Contributed to open-source projects and actively participated in coding communities.
 
 <h2 align="center">📫 Let's Connect</h2>
-<p align="center">Feel free to reach out to me!</p>
 <p align="center">I'm always open to collaborating on exciting projects or discussing web development trends. If you have an idea or want to chat, don't hesitate to get in touch!</p>
 
 <p align="center"><a href="https://instagram.com/aryddntaabbss17.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aryaddinata" height="30" width="40" /></a>
