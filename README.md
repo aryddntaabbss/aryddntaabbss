@@ -1,5 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1HxGHwJFVaYM1iugCVmasmijd2FMZhblm/view?usp=sharing? alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://aryaddinata-site-v1.vercel.app/)
-<!-- https://drive.google.com/file/d/1HxGHwJFVaYM1iugCVmasmijd2FMZhblm/view?usp=sharing -->
+[![MasterHead](https://drive.google.com/file/d/1HxGHwJFVaYM1iugCVmasmijd2FMZhblm/view?usp=sharing)](https://aryaddinata-site-v1.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Agil Aryaddinata Abbas</h1>
 
