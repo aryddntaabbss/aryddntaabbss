@@ -2,6 +2,8 @@
 
 I'm a passionate web developer with a keen eye for detail and a love for crafting seamless user experiences. With a background in both front-end and back-end development, I strive to build responsive and engaging web applications that not only meet user needs but also drive business success.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryddntaabbss&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 ## 🚀 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
