@@ -1,6 +1,4 @@
-[![MasterHead](https://i.imgur.com/jD4vJsv.mp4)](https://aryaddinata-site-v1.vercel.app/)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/wIaxH15"  ><a href="//imgur.com/a/wIaxH15"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+[![MasterHead](https://i.imgur.com/jD4vJsv.gif)]
 <h1 align="center">Hi 👋, I'm Agil Aryaddinata Abbas</h1>
 
 I'm a passionate web developer with a keen eye for detail and a love for crafting seamless user experiences. With a background in both front-end and back-end development, I strive to build responsive and engaging web applications that not only meet user needs but also drive business success.
