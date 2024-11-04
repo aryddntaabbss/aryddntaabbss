@@ -23,9 +23,8 @@ I'm a passionate web developer with a keen eye for detail and a love for craftin
 
 Feel free to reach out to me!
 
-- 📧 Email: [your-email@example.com](mailto:your-aryaddinataabbas017@gmail.com)
-- 🌐 Portfolio: [your-portfolio-link.com](#)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/aryaddinata/)
+<a href="https://instagram.com/aryddntaabbss17.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aryaddinata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryaddinata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaddinata" height="30" width="40" /></a>
 
 ## 🎯 Currently Working On
 
@@ -40,5 +39,11 @@ I'm currently exploring the latest trends in web development, including:
 I'm always open to collaborating on exciting projects or discussing web development trends. If you have an idea or want to chat, don't hesitate to get in touch!
 
 ---
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryddntaabbss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryddntaabbss" /></p> -->
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryddntaabbss&show_icons=true&locale=en&theme=tokyonight" alt="aryddntaabbss" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aryddntaabbss&&theme=tokyonight" alt="aryddntaabbss" /></p>
 
 Thanks for stopping by! 🚀
